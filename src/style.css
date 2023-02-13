@@ -1,0 +1,23 @@
+.element1 {
+    background-color: blueviolet;
+    width: 20vw;
+    height: 20vw;
+    border-radius: 50%;
+    margin-left: 10vw;
+}
+
+.element2 {
+    background-color: blueviolet;
+    width: 40vw;
+    height: 40vw;
+    border-radius: 50%;
+    margin-left: 10vw;
+}
+
+.element3 {
+    background-color: blueviolet;
+    width: 60vw;
+    height: 60vw;
+    border-radius: 50%;
+    margin-left: 10vw;
+}
